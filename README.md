@@ -19,10 +19,6 @@ To get started, simply create an account and browse the available courses. Once 
 
 If you would like to contribute to this website, please feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License.
-
 **Note:** This website is still under development, so there may be some bugs or other issues. We are working hard to improve the website, and we appreciate your patience.
 Desktop preview:
 ![image](https://github.com/itsanjalich/my-edusite/assets/93367550/b2174b9c-8626-4326-8460-f3426350bed1)
